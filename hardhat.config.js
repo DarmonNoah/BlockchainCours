@@ -14,6 +14,7 @@ const INFURA_API_KEY = vars.get("infuraApiKey");
 // go to Account Details > Export Private Key
 // Beware: NEVER put real Ether into testing accounts
 const SEPOLIA_PRIVATE_KEY = vars.get("sepoliaPrivateKey");
+const ETHERSCAN_API_KEY = vars.get("etherscanApiKey");
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
@@ -22,6 +23,11 @@ module.exports = {
     sepolia: {
       url: `https://sepolia.infura.io/v3/${INFURA_API_KEY}`,
       accounts: [SEPOLIA_PRIVATE_KEY],
+    },
+  },
+  etherscan:{
+    apiKey:{
+      sepolia: ETHERSCAN_API_KEY,
     },
   },
 };
