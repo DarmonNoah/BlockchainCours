@@ -6,7 +6,7 @@ describe("On s'apprete a tester le deploiement du token", function () {
     it("should send the total to the owner", async function () {
     const [owner] = await ethers.getSigners();
     
-    const Token = await ethers. deployContract("NHD_Token");
+    const Token = await ethers. deployContract("NHDToken");
     
     const ownerBalance = await Token.balanceOf(owner.address);
     
