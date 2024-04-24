@@ -7,5 +7,5 @@
 ## Token NHD (avec IERC20)
 0x6A0A4a782B09dF39e53D9d013072F76ABE159009
 
-# Adresse account 2
+# Adresse account 2 (local)
 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
