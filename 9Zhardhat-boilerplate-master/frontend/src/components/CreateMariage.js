@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Web3 from 'web3';
-import MariageContract from './contrat/Mariage.json';
+//import Web3 from 'web3';
+import MariageContract from '../contracts/Token.json';
 
-function CreateMariage() {
+export function CreateMariage() {
   const [Marie1, setMarie1Address] = useState('');
   const [Marie2, setMarie2Address] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
