@@ -1,0 +1,67 @@
+
+.title-CM{
+   text-align: center;
+   height: 10%;
+}
+.connnection-title-CM {
+   background-color: rgb(141, 141, 141);
+   text-align: left;
+   font-size: x-small; 
+}
+
+.section-CM{
+   display: flex;
+   flex-wrap: wrap;
+}
+.container-children-CM{
+   flex-grow: 1;
+   margin: 10px;
+}
+.container-marry-CM{
+   flex-grow: 1;
+   margin: 10px;
+}
+.container-information-CM {
+   flex-grow: 1;
+   margin: 10px;
+}
+
+#contrat-details{
+   text-align: left;
+}
+.container-contrat-CM{
+   padding-top: 100px;
+   text-align: center;
+}
+.ajouter-enfant-CM {
+   border-radius: 10px;
+   width: 200px;
+   background-color: white;
+   border: 2px solid black;
+   font-size: 16px; 
+   padding: 5px 0 5px 0;
+   margin: 5px 5px 5px 5px;
+   cursor: pointer; 
+   position: absolute;
+   left: 60%;
+   transform: translateX(-50%);
+ }
+ .ajouter-enfant-CM:hover {
+   background-color: #a3a3a3;
+ }
+ .declarerDivorce-CM {
+   border-radius: 10px;
+   width: 200px;
+   background-color: white;
+   border: 2px solid black;
+   font-size: 16px; 
+   padding: 5px 0 5px 0;
+   margin: 5px 5px 5px 5px;
+   cursor: pointer; 
+   position: absolute;
+   left: 40%;
+   transform: translateX(-50%);
+ }
+ .declarerDivorce-CM:hover {
+   background-color: #a3a3a3;
+ }

@@ -181,7 +181,7 @@
     },
     {
       "inputs": [],
-      "name": "getFemme",
+      "name": "getMarie2",
       "outputs": [
         {
           "internalType": "address",
@@ -194,7 +194,7 @@
     },
     {
       "inputs": [],
-      "name": "getHomme",
+      "name": "getMarie1",
       "outputs": [
         {
           "internalType": "address",

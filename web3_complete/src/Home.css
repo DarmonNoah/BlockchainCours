@@ -1,0 +1,66 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #a1a1a1; 
+    color: #fff;
+    text-align: center; 
+}
+.sectionHome{
+    top: 40px;
+    position: relative;
+}
+.containerPresentation{
+    text-align: center;
+}
+.containerChoix {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px;
+  text-align: center;
+}
+
+.buttonChoix {
+    border-radius: 10px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid black;
+    font-size: 16px; 
+    padding: 5px 0 5px 0;
+    margin: 5px 5px 5px 5px;
+    cursor: pointer; 
+  }
+  .buttonChoix:hover {
+    background-color: #a3a3a3;
+  }
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #a1a1a1; 
+    color: #fff;
+    text-align: center; 
+}
+.message {
+    height: auto; 
+    display: flex; 
+    flex-wrap: wrap;
+  }
+
+.messageInput{
+    flex-grow: 1;
+    margin: 10px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid black;
+    font-size: 16px; 
+    border-radius: 10px;
+}
+#envoieContrat{
+    flex-grow: 1;
+    margin: 10px;
+}
