@@ -12,7 +12,7 @@ Fourth attempt(à la maison) :
 Objectif : tout refaire depuis chez moi pour vérifier si j'ai bien compris et proposer un rendu plus complet et fonctionnel.  
 tester de marier : "0x2ea018e72Fa373dD48DF581C0f6466fA79ddFde2" , "0x8cC38bD6E448fFA17458d5D32c6CAf530A09c998" et ajouter des enfant ou encore les divorcer.  
 Je n'ai pas pu aller plus loin dans les tests de mon contrat 'MODULE_NOT_FOUND' lors de l'execution de mes commandes, je suis sur une machine sur laquelle je recontre des problèmes pour l'utilisation de metamask(réglés) et node.js(non réglés) je n'ai pas l'installation fait en classe car j'avais emprunté un ordinateur(j'ai testé avec node derniere version ainsi que node LTS mais mes problèmes persistent).  
-Néanmoins j'ai quand même pu connecter mon contrat à mon account 1(ci-dessous) depuis etherscan et proposer un nouveau code plus logique dans cette aprtie "Web3_Complete".  
+Néanmoins j'ai quand même pu connecter mon contrat à mon account 1(ci-dessous) depuis etherscan et proposer un nouveau code plus logique dans cette partie "Web3_Complete".  
 
 ### 9Zhardhat-boilerplate-master :
 Third attempt(à l'école) :  
