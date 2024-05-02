@@ -1,17 +1,21 @@
-### contrat_mariage :
-1er essai :
-Interface pour mariage dans contrat_mariage src components CreateMariage
-(Mariages non fonctionnels)
+### Web3_Complete :
+Fourth attempt :
+Objectif : tout refaire depuis chez moi pour vérifier si j'ai bien compris et proposer un rendu complet et fonctionnel.
+
+### 9Zhardhat-boilerplate-master :
+Third attempt :
+Lecture des contrats (9Zhardhat-boilerplate-master frontend src components LireContrat)
+(Lecture non fonctionnels car appel aux getMarie1 et getMarie2 sont à réaliser dans LireContrat)
 
 ### contrat_marriage :
-2em essai :
+Second attempt :
 Déploiement du contrat sur https://sepolia.etherscan.io/address/0x46256fA6d3D088a1EcE110dd134734A4005A070e#readContract
 adresse : 0x46256fA6d3D088a1EcE110dd134734A4005A070e
 
-### 9Zhardhat-boilerplate-master :
-3em essai :
-Lecture des contrats (9Zhardhat-boilerplate-master frontend src components LireContrat)
-(Lecture non fonctionnels car appel aux getMarie1 et getMarie2 sont à réaliser dans LireContrat)
+### contrat_mariage :
+First attempt :
+Interface pour mariage dans contrat_mariage src components CreateMariage
+(Mariages non fonctionnels)
 
 # Adresse account 1
 0x0176FB5DA91dB2600CcC7878D8f1E143491e6866
